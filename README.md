@@ -24,3 +24,4 @@ Relatórios estruturados de **erros (bugs)** e **sugestões de melhorias** com b
 
 ---
 
+> Tags: `QA`, `Testes Manuais`, `Bug Report`, `Análise de Qualidade`
