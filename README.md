@@ -13,6 +13,9 @@ Análise qualitativa da Loção Hidratante Nativa SPA Orquídea Noire (O Boticá
 ### 🔹 [Módulo 3 – Bug Report + Melhorias](./modulo-3-bugreport/README.md)
 Relatórios estruturados de **erros (bugs)** e **sugestões de melhorias** com base em testes manuais no site da loja EBAC. Exercício focado em simular a atuação de um analista de qualidade na prática.
 
+### 🔹 [Módulo 4 – Cadastro de Produtos](./modulo-4-cadastro-produtos/README.md)
+Exercício dividido em três partes: análise de regras de negócio, aplicação da técnica de valor limite e tabela de decisão.
+
 ---
 
 ## ✨ Sobre mim
