@@ -16,7 +16,7 @@ Relatórios estruturados de **erros (bugs)** e **sugestões de melhorias** com b
 ### 🔹 [Módulo 4 – Cadastro de Produtos](./modulo-4-cadastro-produtos/README.md)
 Exercício dividido em três partes: análise de regras de negócio, aplicação da técnica de valor limite e tabela de decisão.
 
-### 🔹 [Módulo 5 – Planejamento de Testes + Matriz de Risco](./modulo-5-cadastro-produtos/README.md)
+### 🔹 [Módulo 5 – Planejamento de Testes + Matriz de Risco](./ebac-modulo-5-cadastro-produtos/README.md)
 Planejamento completo de cenários de teste com base em regras de negócio. Inclui mapeamento em matriz de risco e justificativas técnicas, simulando a rotina de um QA em testes manuais.
 
 ---
