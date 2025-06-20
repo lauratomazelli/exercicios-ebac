@@ -16,8 +16,11 @@ Relatórios estruturados de **erros (bugs)** e **sugestões de melhorias** com b
 ### 🔹 [Módulo 4 – Cadastro de Produtos](./modulo-4-cadastro-produtos/README.md)
 Exercício dividido em três partes: análise de regras de negócio, aplicação da técnica de valor limite e tabela de decisão.
 
-### 🔹 [Módulo 5 – Planejamento de Testes + Matriz de Risco](./ebac-modulo-5-cadastro-produtos/README.md)
-Planejamento completo de cenários de teste com base em regras de negócio. Inclui mapeamento em matriz de risco e justificativas técnicas, simulando a rotina de um QA em testes manuais.
+### 🔹 [Módulo 5 – Planejamento de Testes + Matriz de Risco](./modulo-5-cadastro-produtos/README.md)
+Planejamento completo de cenários de teste com base em regras de negócio. Inclui mapeamento em matriz de risco e justificativas técnicas.
+
+### 🔹 [Módulo 6 – Histórias de Usuário](./modulo-6-historias-usuario/README.md)
+Criação de histórias de usuário e definição de critérios de aceitação. Exercício focado em requisitos e boas práticas de comunicação com o time de desenvolvimento.
 
 ---
 
@@ -27,7 +30,3 @@ Planejamento completo de cenários de teste com base em regras de negócio. Incl
 🎓 Formada em Estética e Cosmética pela UCEFF  
 📚 Estudante de Teste de Software pela EBAC  
 🚀 Em transição de carreira para a área de tecnologia
-
----
-
-> Tags: `QA`, `Testes Manuais`, `Bug Report`, `Análise de Qualidade`
