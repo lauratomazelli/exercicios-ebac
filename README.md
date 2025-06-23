@@ -22,6 +22,9 @@ Planejamento completo de cenários de teste com base em regras de negócio. Incl
 ### 🔹 [Módulo 6 – Histórias de Usuário](./modulo-6-historias-usuario/README.md)
 Criação de histórias de usuário e definição de critérios de aceitação. Exercício focado em requisitos e boas práticas de comunicação com o time de desenvolvimento.
 
+### 🔹 [Módulo 7 – Papel do QA em Times Ágeis](./modulo-7-times-ageis/README.md)
+Análise do quadro Kanban e identificação do papel do QA nos eventos ágeis (planning, daily, review, retrospectiva e refinamento).
+
 ---
 
 ## ✨ Sobre mim
