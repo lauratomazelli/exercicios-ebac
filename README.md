@@ -25,6 +25,9 @@ Criação de histórias de usuário e definição de critérios de aceitação. 
 ### 🔹 [Módulo 7 – Papel do QA em Times Ágeis](./modulo-7-times-ageis/README.md)
 Análise do quadro Kanban e identificação do papel do QA nos eventos ágeis (planning, daily, review, retrospectiva e refinamento).
 
+### 🔹 [Módulo 8 – Critérios de Aceitação com Gherkin](./modulo-8-gherkin/README.md)
+Criação de arquivos `.feature` usando a linguagem Gherkin para descrever critérios de aceitação em formato estruturado, com cenários e uso de Scenario Outline.
+
 ---
 
 ## ✨ Sobre mim
