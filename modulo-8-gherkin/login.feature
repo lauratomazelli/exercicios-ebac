@@ -1,16 +1,16 @@
-Feature: Login na plataforma
+# language: pt
 
-  Background:
-    Given que estou na página de login da EBAC-SHOP
+Funcionalidade: Autenticar usuário na plataforma
 
-  # Exemplo de reuso com tabela
-  Scenario Outline: Tentar fazer login
-    When preencho o usuário "<usuario>" e a senha "<senha>"
-    And clico em "Entrar"
-    Then o resultado deve ser "<mensagem>"
+  Contexto:
+    Dado que estou na página de login da EBAC‑SHOP
 
-    Examples:
-      | usuario    | senha        | mensagem                               |
-      | laura@ok   | 12345678     | redirecionado para tela de checkout    |
-      | laura@ok   | senhaErrada  | Usuário ou senha inválidos             |
-      | errado@x   | 12345678     | Usuário ou senha inválidos             |
+  Esquema do Cenario: Tentativa de login
+    Quando preencho usuário "<usuario>" e senha "<senha>" e clico em "Entrar"
+    Então o sistema deve apresentar "<resultado>"
+
+    Exemplos:
+      | usuario        | senha       | resultado                                       |
+      | laura@email    | 12345678    | redireciona para o checkout                     |
+      | laura@email    | senhaErrada | Usuário ou senha inválidos                      |
+      | errado@email   | 12345678    | Usuário ou senha inválidos                      |
