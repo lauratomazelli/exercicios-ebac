@@ -36,6 +36,5 @@ Avaliação do site EBAC-Shop com foco em acessibilidade, performance e boas pr�
 ## ✨ Sobre mim
 
 👩‍💻 Laura Tomazelli  
-🎓 Formada em Estética e Cosmética pela UCEFF  
 📚 Estudante de Teste de Software pela EBAC  
 🚀 Em transição de carreira para a área de tecnologia
