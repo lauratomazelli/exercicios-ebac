@@ -28,6 +28,10 @@ Análise do quadro Kanban e identificação do papel do QA nos eventos ágeis (p
 ### 🔹 [Módulo 8 – Critérios de Aceitação com Gherkin](./modulo-8-gherkin/README.md)
 Criação de arquivos `.feature` usando a linguagem Gherkin para descrever critérios de aceitação em formato estruturado, com cenários e uso de Scenario Outline.
 
+🔹 Módulo 9 – Acessibilidade e DevTools  
+Avaliação do site EBAC-Shop com foco em acessibilidade, performance e boas práticas usando Lighthouse, WAVE e DevTools. Inclui recomendações para atingir o nível AAA e alterações visuais via ferramentas do navegador.
+
+
 ---
 
 ## ✨ Sobre mim
