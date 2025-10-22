@@ -33,3 +33,5 @@ modulo-10-git/
 ├── dados.txt
 ├── README.md
 ```
+
+Atividade disponível aqui: https://github.com/lauratomazelli/aula-git-ebac
