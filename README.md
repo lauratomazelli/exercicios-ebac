@@ -31,6 +31,9 @@ Criação de arquivos `.feature` usando a linguagem Gherkin para descrever crit�
 ### 🔹 [Módulo 9 – Acessibilidade e DevTools](./modulo-9-acessibilidade-devtools)  
 Avaliação do site EBAC-Shop com foco em acessibilidade, performance e boas práticas usando Lighthouse, WAVE e DevTools. Inclui recomendações para atingir o nível AAA e alterações visuais via ferramentas do navegador.
 
+### 🔹 [Módulo 10 – Versionamento com Git](./aula-git-ebac)
+Atividade prática de versionamento utilizando Git e GitHub. Inclui clonagem de repositório, modificação de arquivo, commit, push e criação de repositório remoto com histórico de alterações.
+
 ---
 
 ## ✨ Sobre mim
